@@ -11,3 +11,9 @@ Ubuntu 16.04
 
 
   [1]: https://www.flyzy2005.cn/fan-qiang/shadowsocks/install-shadowsocks-in-one-command
+
+
+	
+####1. git clone https://github.com/zhnnnnn/ss-fly
+####2. ss-fly/ss-fly.sh -i password 1024
+
