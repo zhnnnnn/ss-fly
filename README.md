@@ -14,6 +14,7 @@ Ubuntu 16.04
 
 
 	
-####1. git clone https://github.com/zhnnnnn/ss-fly
-####2. ss-fly/ss-fly.sh -i password 1024
+#### 1. git clone https://github.com/zhnnnnn/ss-fly
+
+#### 2. ss-fly/ss-fly.sh -i password 1024
 
