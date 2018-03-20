@@ -18,3 +18,4 @@ Ubuntu 16.04
 
 #### 2. ss-fly/ss-fly.sh -i password 1024
 
+#### 3. ss-fly/ss-fly.sh -bbr （开启BBR,可选）
